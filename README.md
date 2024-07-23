@@ -1,3 +1,7 @@
+![Alt text](/Terraform-AWS-GitHub.png)
+
+![Alt text](/Dynamic_Web_Site_on_AWS_with_terraform.png)
+
 # Hosting a Dynamic Website on AWS Using Terraform
 
 This project demonstrates how to host a dynamic website on AWS using Terraform for infrastructure as code (IaC). It leverages multiple AWS services to ensure high availability, scalability, fault tolerance, and security. The reference diagram and configuration files for the project are available in a private GitHub repository.
